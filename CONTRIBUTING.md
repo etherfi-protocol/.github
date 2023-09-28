@@ -1,18 +1,37 @@
 # Contributing to ether.fi
 
-First off, thank you for considering contributing to `ether.fi`! It's people like you that make `ether.fi` such a great tool.
+First off, thank you for considering contributing to `ether.fi`! It's people like you that make `ether.fi` a better Ethereum staking protocol.
 
 ## Getting Started
 
-- **Fork the repository**: This is essential if you're planning to contribute back to the main project. Once forked, you can clone your fork and begin work.
+- **Clone the repository**: This is essential if you're planning to contribute back to the main project. Once cloned, you can begin work.
   
   ```bash
-  git clone https://github.com/YOUR_USERNAME/ether.fi.git
+  git clone https://github.com/etherfi-protocol/respository.git
   ```
 
 - **Set up your environment**: Ensure that you have all the necessary dependencies and tools installed. Follow our [setup guide](#) to prepare your local environment.
 
-- **Find an issue to work on**: Check our [issues page](https://github.com/ether-fi/ether.fi/issues) for tasks or bugs that need attention. If you have a new feature in mind, it's a good idea to open a new issue to discuss it.
+- **Find an issue to work on**: Check our [issues page](https://github.com/etherfi-protocol/issues) for tasks or bugs that need attention. If you have a new feature in mind, it's a good idea to open a new issue to discuss it.
+
+- **Branch name conventions**: `ether.fi` uses a specific branch naming strategy, please follow these guidlines:
+When creating a new branch, use the following format: `[contributor-name]-[type]-[description]`.
+
+- **[contributor-name]**: Your GitHub username or a short form of your name.
+- **[type]**: The type of task. Can be one of:
+  - `feature`: New feature or enhancement.
+  - `bug`: Fixes to existing functionality.
+  - `docs`: Changes to documentation.
+  - `test`: Adding or updating tests.
+- **[description]**: A short and descriptive name for the branch, using hyphens to separate words.
+
+    Examples:
+
+    - `alice-feature-user-authentication`
+    - `bob-bug-login-error`
+    - `charlie-docs-api-endpoints`
+    - `dave-test-unit-login`
+
 
 ## Coding Standards
 
