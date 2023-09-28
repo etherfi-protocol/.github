@@ -1,41 +1,38 @@
-ether.fi: Decentralized Ethereum Staking Protocol
-Ether.fi Logo
+# ether.fi ~ Decentralized Ethereum Staking Protocol
 
-Welcome to ether.fi — the future of Ethereum staking. Our unique protocol empowers you to stake your ETH while retaining full control of your private keys. No compromises, just pure decentralized staking.
+![Ether.fi Logo](etherfi-logo.svg)
 
-Features ✨
-Self-Custody: With ether.fi, you never give up control of your private keys. Your security and autonomy are our top priorities.
+Welcome to [`ether.fi`](https://ether.fi/) — the future of Ethereum staking. Our unique protocol empowers you to stake your ETH while retaining full control of your private keys. No compromises, just pure decentralized staking.
 
-Decentralized by Design: Our protocol is built on top of Ethereum's robust decentralized infrastructure, ensuring trustworthiness and transparency.
+## Features ✨
 
-Optimized Rewards: Enjoy maximum rewards with our efficient staking strategy, all while keeping your ETH secure.
+- **Self-Custody**: With `ether.fi`, you never give up control of your private keys. Your security and autonomy are our top priorities.
+  
+- **Decentralized by Design**: Our protocol is built on top of Ethereum's robust decentralized infrastructure, ensuring trustworthiness and transparency.
 
-Getting Started 🚀
-Install: Download our staking client or integrate with our smart contracts directly.
+- **Optimized Rewards**: Enjoy maximum rewards with our efficient staking strategy, all while keeping your ETH secure.
 
-bash
-Copy code
-npm install ether-fi-client
-Stake your ETH: Follow our staking guide to start earning rewards.
+- **EigenLayer Natively Restaked**: `ether.fi` is the first and only natively restaked ethereum staking protocol.
 
-Monitor: Track your staking performance and rewards using our dashboard.
+## Getting Started 🚀
 
-Documentation 📖
-For a deeper dive into ether.fi and how it works, refer to our comprehensive documentation.
+- **Stake your ETH**: Follow our [staking guide](https://etherfi.gitbook.io/etherfi/getting-started/stakers-guide) to start earning rewards.
 
-Community & Support 🌍
+- **Monitor**: Track your staking performance and rewards using our web application [dashboard](https://mainnet.ether.fi/dashboard).
+
+## Documentation 📖
+- For a deeper dive into `ether.fi` and how it works, refer to our comprehensive gitbook [documentation](https://etherfi.gitbook.io/etherfi/).
+
+## Community & Support 🌍
 Engage with our vibrant community:
+- [Discord](https://discord.gg/JunzgEjjG4)
+- [Telegram](https://t.me/etherfifam)
+- [Twitter](https://twitter.com/ether_fi)
 
-Discord
-Telegram
-Twitter
-For any queries, issues, or support, please visit our support page or raise an issue in this repository.
+For any queries, issues, or support, please visit our [support page](SUPPORT.md) or raise an issue in this repository.
 
-Contributing 🤝
-We welcome contributions from the community. If you're interested in improving ether.fi, check out our CONTRIBUTING.md to get started.
+## Contributing 🤝
+We welcome contributions from the community. If you're interested in improving `ether.fi`, check out our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
-License 📄
-ether.fi is open-source and licensed under the MIT License.
-
-
-
+## License 📄
+`ether.fi` is open-source and licensed under the [MIT License](LICENSE).
