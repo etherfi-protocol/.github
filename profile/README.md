@@ -1,6 +1,8 @@
 # ether.fi ~ Decentralized Ethereum Staking Protocol
 
-![Etherfi Logo](https://github.com/GadzeFinance/Image-Hosting/blob/main/Etherfi-Logo.png)
+<p align="center">
+  <img src="https://github.com/GadzeFinance/Image-Hosting/blob/main/Etherfi-Logo.png" alt="Etherfi Logo">
+</p>
 
 Welcome to [`ether.fi`](https://ether.fi/) — the future of Ethereum staking. Our unique protocol empowers you to stake your ETH while retaining full control of your private keys. No compromises, just pure decentralized staking.
 
