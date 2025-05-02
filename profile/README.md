@@ -6,7 +6,7 @@
 
 Welcome to [`ether.fi`](https://ether.fi/)
 
-ether.fi is building the future of decentralized financial banking through innovative staking solutions, automated DeFi strategies, and secure financial primitives. This repository contains the core smart contracts for ether.fi's Liquid Staking Protocol, a cornerstone of our expanding DeFi ecosystem.
+ether.fi is building the future of decentralized financial banking through innovative staking solutions, automated DeFi strategies, and secure financial primitives.
 
 ## Key Products & Features
 
