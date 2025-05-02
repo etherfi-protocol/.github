@@ -42,7 +42,7 @@ ether.fi maintains the highest security standards through:
 - Open-source development practices
 - Multi-sig governance implementation
 - Strict operational controls
-
+- Non-Custodior 
 
 ## Documentation
 
